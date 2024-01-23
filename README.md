@@ -6,6 +6,9 @@ Digigram is a full-stack social media web application, showcasing functionalitie
 ## Quick Links
 * Video Walkthrough: [YouTube](https://youtu.be/1exu7CSPijA)
 * Live Demo: [Digigram](http://capstonereactfrontend.s3-website-us-east-1.amazonaws.com/)
+  * If you don't want to sign up:
+      * Username: digit
+      * Password: password123
 
 ## Tech Stack
 * Backend: Spring Boot (AWS Elastic Beanstalk)
